@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Parla Clarin Example file</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>WESTAC</authority>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Kungliga Biblioteket</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>No correction of source texts was performed.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Parla Clarin Example corpus</title>
+        </titleStmt>
+        <publicationStmt>
+          <authority>WESTAC</authority>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title>Untitled</title>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>No correction of source texts was performed.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <front>
+        <div type="preface">
+          <head>Untitled</head>
+          <docDate when="1999-01-01">1999-01-01</docDate>
+          <docDate when="1999-01-02">1999-01-02</docDate>
+        </div>
+      </front>
+      <body>
+        <div>
+          <note type="speaker">Herr Talmannen:</note>
+          <u>Öääää.</u>
+          <u>This is a note.</u>
+        </div>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
